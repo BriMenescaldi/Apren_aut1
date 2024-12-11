@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scikit-learn
+optuna
+tabulate
+pycaret
+imbalanced-learn
+shap
+tensorflow
